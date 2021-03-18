@@ -1,5 +1,5 @@
 # Count of positives / sum of negatives
-
+<small style="color: gray">This was warmup work from <span title="General Assembly">GA</span></small>
 ## Problem 
 
 Create a function that takes an array of integers as an argument and returns an array, where the first element is the count of positive numbers and the second element is sum of negative numbers.
